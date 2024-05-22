@@ -14,7 +14,7 @@
     <color name="peso_bajo">#FFEB3B</color>
     <color name="peso_normal">#4CAF50</color>
     <color name="peso_sobrepeso">#FF5722</color>
-    <color name="obesidad">#FF1100</color>
+    <color name="peso_obesidad">#FF1100</color>
 
     <!--    Setting-->
     <color name="settings_text_title">#000000</color>

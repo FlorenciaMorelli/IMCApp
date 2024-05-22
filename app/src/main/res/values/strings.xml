@@ -3,7 +3,13 @@
     <string name="male">hombre</string>
     <string name="female">mujer</string>
     <string name="height">Altura</string>
+    <string name="default_height">168 CM</string>
     <string name="weight">Peso</string>
+    <string name="default_weight">62</string>
     <string name="age">Edad</string>
-    <string name="calculate">Calculate</string>
+    <string name="default_age">35</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Resultado</string>
+    <string name="normal">Normal</string>
+    <string name="re_calculate">Recalcular</string>
 </resources>
